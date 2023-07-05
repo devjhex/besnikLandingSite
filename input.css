@@ -1,0 +1,24 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'inter' ;
+    src: url(./fonts/Inter/Inter-VariableFont_slnt\,wght.ttf);
+}
+
+@font-face {
+    font-family: 'lato';
+    src: url(./fonts/Lato/Lato-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'lekton';
+    src: url(./fonts/Lekton/Lekton-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'poppins';
+    src: url(./fonts/Poppins/Poppins-Regular.ttf);
+}
