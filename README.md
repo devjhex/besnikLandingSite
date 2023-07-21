@@ -48,5 +48,5 @@ I want to continue to update this site to see how better i can build it with bet
 
 ## Author
 - Twitter - [@devJhex](https://www.twitter.com/devJhex)
-
+- Instagram - [@devjhex](https://www.instagram.com/devjhex)
 
